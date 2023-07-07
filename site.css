@@ -175,17 +175,17 @@ body {
 	 	 
 	.neon {
 	  font-size: 5.2em;
-	  letter-spacing: -10px;
+	  letter-spacing: 1px;
 	}
 
 	.neon:hover {
 	  font-size: 5.5em;
-	  letter-spacing: -5px;	   
+	  letter-spacing: 2px;	   
 	}
 
 	.retro {
 		font-size: 5.5em;
-		letter-spacing: -10px;
+		letter-spacing: 1px;
 	}
 
 	.retro:hover {
@@ -201,7 +201,7 @@ body {
 
 	.wave:hover {
 		font-size: 4.2em;
-		letter-spacing: -5px;
+		letter-spacing: 2px;
 	}
 }
 
@@ -215,36 +215,36 @@ body {
 	
    .neon {	  
 		font-size: 4.2em;
-		letter-spacing: -6px;
+		letter-spacing: 1px;
 	}
 
 	.neon:hover {
 		font-size: 4.5em;
-		letter-spacing: -3px;
+		letter-spacing: 2px;
 		filter:  drop-shadow(0 0 10px #fff) drop-shadow(0 0 20px #FA26F7) drop-shadow(0 0 30px #FA26F7);
 		animation-name:none;
 	}
 
 	.retro {
 		font-size: 4.5em;
-		letter-spacing: -6px;
+		letter-spacing: 1px;
 	}
 
 	.retro:hover {
 		font-size: 4.8em;
-		letter-spacing: -3px;
+		letter-spacing: 2px;
 		filter:  drop-shadow(0 0 10px #fff) drop-shadow(0 0 20px #FA26F7) drop-shadow(0 0 30px #FA26F7);
 		animation-name:none;
 	}
 	
 	.wave {
 		font-size: 2.8em;  
-		letter-spacing: -6px;
+		letter-spacing: 1px;
 	}
 
 	.wave:hover {
 		font-size: 3.1em;
-		letter-spacing: -3px;
+		letter-spacing: 2px;
 		filter:  drop-shadow(0 0 10px #fff) drop-shadow(0 0 20px #FA26F7) drop-shadow(0 0 30px #FA26F7);
 		animation-name:none;
 		
@@ -274,38 +274,38 @@ body {
 	
    .neon {	  
 	  font-size: 3.9em;
-	  letter-spacing: -4px;
+	  letter-spacing: 1px;
 	  margin-bottom: -28px;
 	}
 
 	.neon:hover, .neon:active {
 	  font-size: 4.2em;
-	  letter-spacing: -2px;
+	  letter-spacing: 2px;
 	  filter:  drop-shadow(0 0 10px #fff) drop-shadow(0 0 20px #FA26F7) drop-shadow(0 0 30px #FA26F7);
 	  animation-name:none;
 	}
 
 	.retro {
 		font-size: 4.0em;
-		letter-spacing: -4px;
+		letter-spacing: 1px;
 		margin-bottom: -20px;
 	}
 
 	.retro:hover {
 		font-size: 4.3em;
-		letter-spacing: -2px;
+		letter-spacing: 2px;
 		filter:  drop-shadow(0 0 10px #fff) drop-shadow(0 0 20px #FA26F7) drop-shadow(0 0 30px #FA26F7);
 		animation-name:none;
 	}
 	
 	.wave {
 	  font-size: 2.3em;	  
-	  letter-spacing: -4px;
+	  letter-spacing: 1px;
 	}
 
 	.wave:hover {
 		font-size: 2.5em;
-		letter-spacing: -2px;
+		letter-spacing: 2px;
 		filter:  drop-shadow(0 0 10px #fff) drop-shadow(0 0 20px #FA26F7) drop-shadow(0 0 30px #FA26F7);
 		animation-name:none;
 	}
